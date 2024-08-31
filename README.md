@@ -9,7 +9,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div style="display: flex; justify-content: flex-end;">
+  <div class="tenor-gif-embed" data-postid="22630514" data-share-method="host" data-aspect-ratio="1.01911" data-width="10%">
+    <a href="https://tenor.com/view/cyjspriv-gojo-jujutsu-kaisen-gif-22630514">Cyjspriv Gojo GIF</a>from <a href="https://tenor.com/search/cyjspriv-gifs">Cyjspriv GIFs</a>
+  </div> 
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 ###
 
